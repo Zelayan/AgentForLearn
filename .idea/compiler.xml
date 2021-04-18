@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zeze-demo04-Thread" />
+        <module name="zeze.demo05-ThreadLocal" />
+        <module name="zeze-demo02-byteBuddy" />
+        <module name="zeze-demo01-agent" />
+        <module name="zeze-demo02-agent02" />
+        <module name="zeze-demo05-ThreadLocal" />
+        <module name="learn01-byteBuddy" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="zeze-demo03-byteBuddy" target="8" />
+      <module name="zeze-demo04-Thread" target="8" />
+      <module name="zeze.demo05-ThreadLocal" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

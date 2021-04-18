@@ -1,0 +1,6 @@
+# Project exclude paths
+/learn01-byteBuddy/target/
+/zeze-demo01-agent/target/
+/zeze-demo02-agent02/target/
+/zeze-demo02-byteBuddy/target/
+/zeze-demo05-ThreadLocal/target/
