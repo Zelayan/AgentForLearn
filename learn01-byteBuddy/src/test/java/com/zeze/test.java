@@ -51,6 +51,6 @@ public class test {
                 .subclass(Object.class)
                 .make();
 
-        
+
     }
 }
